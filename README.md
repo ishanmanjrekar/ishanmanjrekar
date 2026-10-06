@@ -19,7 +19,7 @@ This corner of GitHub is my personal practice ground. I am not well versed on th
 ### ✍️ Writing & Community
 
 - **[Portfolio & Background](https://ishanmanjrekar.github.io/cv/)** — A complete overview of my shipped projects, career milestones, and talks.
-- **[Game Design Bites](https://gamedesignbites.substack.com)** — Practical essays on systems design, UX, retention loops, and game metrics.
+- **[Game Design Bites](https://gamedesignbites.substack.com)** — Practical essays on game design, UX, retention loops, and game metrics.
 - **[Playable Things](https://playable-things.itch.io)** — Playable web builds and mechanic sandboxes hosted on Itch.io.
 - **[ADPList Mentorship](https://adplist.org/mentors/ishan-manjrekar)** — Free mentoring for aspiring and working game designers navigating the industry.
 
