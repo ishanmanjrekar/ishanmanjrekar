@@ -2,7 +2,7 @@
 
 I have been a game designer for over 16 years, designing systems, economies, and live operations for games that have reached billions of players worldwide.
 
-This corner of GitHub is my personal practice ground. I am not a programmer by trade, but in my free time, I use this space to learn new skills, test modern tools—especially AI collaborators—and explore hands-on ways to build things related to games. For me, it is a quick way to cross the gap between a design idea and a playable build without waiting on a full production pipeline.
+This corner of GitHub is my personal practice ground. I am not well versed on the coding aspects at all, but in my free time, I use this space to learn new skills, test modern tools—especially AI collaborators—and explore hands-on ways to build things related to games. For me, it is a quick way to cross the gap between a design idea and a playable build without waiting on a full production pipeline.
 
 ---
 
@@ -18,11 +18,11 @@ This corner of GitHub is my personal practice ground. I am not a programmer by t
 
 ### ✍️ Writing & Community
 
+- **[Portfolio & Background](https://ishanmanjrekar.github.io/cv/)** — A complete overview of my shipped projects, career milestones, and talks.
 - **[Game Design Bites](https://gamedesignbites.substack.com)** — Practical essays on systems design, UX, retention loops, and game metrics.
 - **[Playable Things](https://playable-things.itch.io)** — Playable web builds and mechanic sandboxes hosted on Itch.io.
 - **[ADPList Mentorship](https://adplist.org/mentors/ishan-manjrekar)** — Free mentoring for aspiring and working game designers navigating the industry.
-- **[Portfolio & Background](https://ishanmanjrekar.github.io/cv/)** — A complete overview of my shipped projects, career milestones, and talks.
 
 ---
 
-*Feel free to connect on [LinkedIn](https://linkedin.com/in/ishanmanjrekar) or read my latest notes on [Substack](https://gamedesignbites.substack.com).*
+*Feel free to connect on [LinkedIn](https://linkedin.com/in/ishanmanjrekar) or read my thought about game design on [Substack](https://gamedesignbites.substack.com).*
