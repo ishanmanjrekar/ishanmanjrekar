@@ -25,4 +25,4 @@ This corner of GitHub is my personal practice ground. I am not well versed on th
 
 ---
 
-*Feel free to connect on [LinkedIn](https://linkedin.com/in/ishanmanjrekar) or read my thought about game design on [Substack](https://gamedesignbites.substack.com).*
+*Feel free to connect on [LinkedIn](https://linkedin.com/in/ishanmanjrekar) or read my thoughts about game design on [Substack](https://gamedesignbites.substack.com).*
